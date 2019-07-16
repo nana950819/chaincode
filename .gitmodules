@@ -1,0 +1,9 @@
+[submodule "cd1/utils-golang"]
+	path = cd1/utils-golang
+	url = https://github.com/cd1/utils-golang
+[submodule "jmoiron/jsonq"]
+	path = jmoiron/jsonq
+	url = https://github.com/jmoiron/jsonq/
+[submodule "src/github.com/hyperledger/fabric"]
+	path = src/github.com/hyperledger/fabric
+	url = https://github.com/hyperledger/fabric
